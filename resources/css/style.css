@@ -9,7 +9,7 @@ h1 {
   color: white;
 }
 
-#downloadLink {
+.downloadLink {
   color: aquamarine;
   font-size: 16px;
   text-decoration: underline;
