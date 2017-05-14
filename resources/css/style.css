@@ -1,16 +1,22 @@
-nav {
-  color: aquamarine;
-  font-size: 16px;
-  text-decoration: underline;
-  text-align: left;
-}
-
+a:-webkit-any-link {
+    color:inherit;
+    cursor: auto;
+    text-decoration: inherit;
+  }
 
 body {
   background-color: black;
   text-align: center;
   font-family: Verdana, sans-serif;
   color: white;
+}
+
+nav {
+  color: gray;
+  font-size: 24px;
+  text-decoration: underline;
+  text-align: left;
+
 }
 
 #downloadLink{
