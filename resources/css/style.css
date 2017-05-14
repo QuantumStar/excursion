@@ -1,6 +1,5 @@
 a:-webkit-any-link {
-    color:inherit;
-    cursor: auto;
+    color: inherit;
     text-decoration: inherit;
   }
 
